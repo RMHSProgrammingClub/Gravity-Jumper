@@ -1,5 +1,4 @@
 # Gravity Jumper [![Build Status](https://travis-ci.org/RMHSProgrammingClub/Gravity-Jumper.svg?branch=master)](https://travis-ci.org/RMHSProgrammingClub/Gravity-Jumper)
--------------
 
 ## About ##
 A game about jumping from planet to planet.
