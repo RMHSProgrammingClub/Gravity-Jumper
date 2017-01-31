@@ -17,3 +17,4 @@ and Jake. Only they can accept or deny the branch merge into the master branch.
  - Curly brackets on the same line.
  - If (boolean) only. No if (boolean == true).
  - Must contain javadocs and comments.
+ - Clean math with spaces between operations and parenthesis to avoid confusion.
